@@ -1,6 +1,3 @@
-# Bem-vindo ao StackEdit!
-![http://capitalcode.com.br/spacecapital.jpg](http://capitalcode.com.br/spacecapital.jpg) ! [CAPITAL CODE-LOGO] ( )
- 
 # [Capital Code] ( http://capitalcode.com.br) - Espaço Capital, conheça os planos de uma forma diferente! #
  
  
